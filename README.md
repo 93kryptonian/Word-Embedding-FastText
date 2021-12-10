@@ -1,2 +1,3 @@
 # Word-Embedding-FastText
-NLP
+
+Word Embedding Using FastText
